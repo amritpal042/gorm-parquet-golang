@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"mime/multipart"
-	"your_project/utils"
 
 	"github.com/xitongsys/parquet-go-source/writerfile"
 	"github.com/xitongsys/parquet-go/reader"
